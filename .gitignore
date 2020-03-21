@@ -1,0 +1,8 @@
+# IDES
+.vs
+.vscode
+.idea
+
+# Temp Files
+temp-src
+
